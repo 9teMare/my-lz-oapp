@@ -1,3 +1,12 @@
+### Deployed OApp
+Fuji, address: 0xaaA80D9Ce7b718c91A2f4A0f0837A8496Ce52759
+
+Polygon Mumbai, address: 0xaaA80D9Ce7b718c91A2f4A0f0837A8496Ce52759
+
+Ethereum Sepolia, address: 0xaaA80D9Ce7b718c91A2f4A0f0837A8496Ce52759
+
+---
+
 <p align="center">
   <a href="https://layerzero.network">
     <img alt="LayerZero" style="max-width: 500px" src="https://d3a2dpnnrypp5h.cloudfront.net/bridge-app/lz.png"/>
